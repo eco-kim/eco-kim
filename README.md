@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @eco-kim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 주도적으로 발전하는 데이터분석가 김익호입니다
 
-<!---
-eco-kim/eco-kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**STACKS**
+Python, PostgreSQL
+Pytorch, Django
+Linux, AWS
